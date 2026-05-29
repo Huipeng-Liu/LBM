@@ -1,0 +1,19 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+
+# Generated simulation/output files
+*.csv
+*.svg
+
+# Editor and OS noise
+.vscode/
+.idea/
+*.swp
+*.tmp
+Thumbs.db
+Desktop.ini
